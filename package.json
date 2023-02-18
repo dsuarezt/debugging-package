@@ -2,8 +2,7 @@
   "name": "com.givinglife.debugging",
   "version": "1.0.0",
   "displayName": "GivingLife Debugging",
-  "description": "GivingLife Debugging is a set of tools for debugging in Unity.
-At the moment it only has the GLDebug class, which is an improved version of UnityEngine.Debug.",
+  "description": "GivingLife Debugging is a set of tools for debugging in Unity. At the moment it only has the GLDebug class, which is an improved version of UnityEngine.Debug.",
   "unity": "2022.1",
   "author": {
     "name": "Giving Life Studio",
